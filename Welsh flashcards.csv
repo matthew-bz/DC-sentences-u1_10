@@ -1,0 +1,52 @@
+﻿word;type;q;tense;number;sg_pl;gender;cat;stat_dyn;noun_pl
+beth;adverb;q;;;;;;;
+dych chi;v_bod;;;2;pl;;;;
+hoffi;verbnoun;;;;;;;dyn;
+dw i;v_bod;;;1;sg;;;;
+rwyt ti;v_bod;;;2;sg;;;;
+mae e;v_bod;;;3;sg;;;;
+mae hi;v_bod;;;3;sg;;;;
+dyn ni;v_bod;;;1;pl;;;;
+maen nhw;v_bod;;;2;pl;;;;
+dw i;v_bod;q;;1;sg;;;;
+wyt ti;v_bod;q;;2;sg;;;;
+ydy e;v_bod;q;;3;sg;;;;
+ydy hi;v_bod;q;;3;sg;;;;
+dyn ni;v_bod;q;;1;pl;;;;
+dych chi;v_bod;q;;2;pl;;;;
+ydyn nhw;v_bod;q;;3;pl;;;;
+eisiau;v_eisiau;;;;;;;stat;
+gwnes i;v_gwneud;;past;1;sg;;;;
+gwneud;verbnoun;;;;;;;dyn;
+gwnest ti;v_gwneud;;past;2;sg;;;;
+gwnaeth e;v_gwneud;;past;3;sg;;;;
+gwnaeth hi;v_gwneud;;past;3;sg;;;;
+gwnaethon ni;v_gwneud;;past;1;pl;;;;
+gwnaethoch chi;v_gwneud;;past;2;pl;;;;
+gwnaethon nhw;v_gwneud;;past;3;pl;;;;
+wnes i;v_gwneud;q;past;1;sg;;;;
+wnest ti;v_gwneud;q;past;2;sg;;;;
+wnaeth e;v_gwneud;q;past;3;sg;;;;
+wnaeth hi;v_gwneud;q;past;3;sg;;;;
+wnaethon ni;v_gwneud;q;past;1;pl;;;;
+wnaethoch chi;v_gwneud;q;past;2;pl;;;;
+wnaethon nhw;v_gwneud;q;past;3;pl;;;;
+mynd;verbnoun;;;;;;;dyn;
+es i;v_mynd;;past;1;sg;;;;
+est ti;v_mynd;;past;2;sg;;;;
+aeth e;v_mynd;;past;3;sg;;;;
+aeth hi;v_mynd;;past;3;sg;;;;
+aethon ni;v_mynd;;past;1;pl;;;;
+aethoch chi;v_mynd;;past;2;pl;;;;
+aethon nhw;v_mynd;;past;3;pl;;;;
+ble;adverb;q;;;;;;;
+yfory;adverb;;future;;;;time;;
+ddoe;adverb;;past;;;;time;;
+tywydd;noun;;;;;f;;;n
+gaf i;v_gaf;q;;;;;;;
+talu;verbnoun;;;;;;;dyn;
+te;noun;;;;;m;;;n
+braf;adj;;;;;;weather;;
+prysur;adj;;;;;;;;
+nofio;verbnoun;;;;;;;dyn;
+capel;noun;;;;;m;place;;capeli
